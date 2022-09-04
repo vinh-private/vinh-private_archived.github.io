@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "My site is live!"
+date:   2022-08-30 22:00:03 +0200
+categories: jekyll update
+---
+
+Yes, it's live. Here you can find my [Curriculum Vitae][cv],
+ [publications][publications], [past talks][past-talks],
+  and a short description of [my works][me].
+
+
+Check out my profile also on
+- [Google Scholar][google-scholar],
+- [Research Gate][research-gate],
+- [GitHub][github],
+- [RWTH-Aachen GitLab][gitlab], and
+- [LinkedIn][linked-in].
+
+[google-scholar]: https://scholar.google.com/citations?user=_308zMUAAAAJ&hl=en&oi=ao
+[research-gate]:  https://www.researchgate.net/profile/Truong-Vinh-Hoang
+[github]: https://github.com/vinh-tr-hoang
+[gitlab]: https://git.rwth-aachen.de/hoang.tr.vinh
+[linked-in]: https://www.linkedin.com/in/truong-vinh-hoang-38154847/
+
+[cv]: /cv/
+[publications]: /publication_talk/#publications
+[past-talks]: /publication_talk/#presentations
+[me]: /about/
+

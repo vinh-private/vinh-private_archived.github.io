@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "Teaching of Mathematics 2 for
+ mechanical engineers"
+date:   2022-09-02 10:00:18 +0200
+categories: jekyll update
+---
+Last semester,  I took in teaching activities
+ of the course [Mathematics 2 for mechanical engineers][math-2]
+  at the [RWTH-Aachen university][rwth-aachen].
+
+
+
+
+
+With more than **2000 students**, this is a considerable challenge.
+ Moreover, this is the first time we
+  are responsible for such a significant course.
+
+My key responsibility is leading a team in developing **digital exams**
+ and **exercises**. Digitization is crucial for a two-thousand-student-course.
+
+
+
+
+
+| ![teaching_math2.png](/images/teaching_math2.png) |
+|:--:|
+| *Some feedback from students.* |
+
+
+
+
+
+The course has been running smoothly, and feedback from students
+ is encouraging, in particular on the aspect of electronic exercises.
+
+
+
+
+
+  Next semester, I will participate also in teaching
+  the course Mathematics 3 for mechanical engineers
+   at RWTH-Aachen University, and we are warming up for new challenges.
+
+
+
+
+
+[rwth-aachen]: https://www.rwth-aachen.de/
+
+[math-2]: https://online.rwth-aachen.de/RWTHonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/450088?$ctx=design=ca;lang=en&$scrollTo=toc_overview
